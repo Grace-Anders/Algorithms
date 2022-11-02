@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\grace\\source\\repos\\Fisher-Yates_Shuffle\\Fisher-Yates_Shuffle\\Fisher-Yates_Shuffle.csproj",
+      "projectUniqueName": "C:\\Users\\grace\\source\\repos\\Algorithms\\Fisher-Yates_Shuffle\\Fisher-Yates_Shuffle\\Fisher-Yates_Shuffle.csproj",
       "projectName": "Fisher-Yates_Shuffle",
-      "projectPath": "C:\\Users\\grace\\source\\repos\\Fisher-Yates_Shuffle\\Fisher-Yates_Shuffle\\Fisher-Yates_Shuffle.csproj",
+      "projectPath": "C:\\Users\\grace\\source\\repos\\Algorithms\\Fisher-Yates_Shuffle\\Fisher-Yates_Shuffle\\Fisher-Yates_Shuffle.csproj",
       "packagesPath": "C:\\Users\\grace\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\grace\\source\\repos\\Fisher-Yates_Shuffle\\Fisher-Yates_Shuffle\\obj\\",
+      "outputPath": "C:\\Users\\grace\\source\\repos\\Algorithms\\Fisher-Yates_Shuffle\\Fisher-Yates_Shuffle\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\grace\\AppData\\Roaming\\NuGet\\NuGet.Config",
