@@ -1,0 +1,14 @@
+C:\Users\grace\source\repos\Fisher-Yates_Shuffle\Fisher-Yates_Shuffle\bin\Debug\netcoreapp3.1\Algorithms.exe
+C:\Users\grace\source\repos\Fisher-Yates_Shuffle\Fisher-Yates_Shuffle\bin\Debug\netcoreapp3.1\Algorithms.deps.json
+C:\Users\grace\source\repos\Fisher-Yates_Shuffle\Fisher-Yates_Shuffle\bin\Debug\netcoreapp3.1\Algorithms.runtimeconfig.json
+C:\Users\grace\source\repos\Fisher-Yates_Shuffle\Fisher-Yates_Shuffle\bin\Debug\netcoreapp3.1\Algorithms.runtimeconfig.dev.json
+C:\Users\grace\source\repos\Fisher-Yates_Shuffle\Fisher-Yates_Shuffle\bin\Debug\netcoreapp3.1\Algorithms.dll
+C:\Users\grace\source\repos\Fisher-Yates_Shuffle\Fisher-Yates_Shuffle\bin\Debug\netcoreapp3.1\Algorithms.pdb
+C:\Users\grace\source\repos\Fisher-Yates_Shuffle\Fisher-Yates_Shuffle\obj\Debug\netcoreapp3.1\Algorithms.csproj.AssemblyReference.cache
+C:\Users\grace\source\repos\Fisher-Yates_Shuffle\Fisher-Yates_Shuffle\obj\Debug\netcoreapp3.1\Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grace\source\repos\Fisher-Yates_Shuffle\Fisher-Yates_Shuffle\obj\Debug\netcoreapp3.1\Algorithms.AssemblyInfoInputs.cache
+C:\Users\grace\source\repos\Fisher-Yates_Shuffle\Fisher-Yates_Shuffle\obj\Debug\netcoreapp3.1\Algorithms.AssemblyInfo.cs
+C:\Users\grace\source\repos\Fisher-Yates_Shuffle\Fisher-Yates_Shuffle\obj\Debug\netcoreapp3.1\Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\grace\source\repos\Fisher-Yates_Shuffle\Fisher-Yates_Shuffle\obj\Debug\netcoreapp3.1\Algorithms.dll
+C:\Users\grace\source\repos\Fisher-Yates_Shuffle\Fisher-Yates_Shuffle\obj\Debug\netcoreapp3.1\Algorithms.pdb
+C:\Users\grace\source\repos\Fisher-Yates_Shuffle\Fisher-Yates_Shuffle\obj\Debug\netcoreapp3.1\Algorithms.genruntimeconfig.cache
