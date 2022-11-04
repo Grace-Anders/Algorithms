@@ -24,7 +24,6 @@ namespace DataStructures
             //the priority at which data is stored
             //It stores all of the data but looses its index ability
 
-            List<Birthday> list = bday;
             Queue<Birthday> queue = new Queue<Birthday>(bday);
 
             foreach(var items in queue)
