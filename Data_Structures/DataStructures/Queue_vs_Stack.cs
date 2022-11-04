@@ -44,7 +44,6 @@ namespace DataStructures
             //but you losse the indexing power that a list has. It works well if you want to
             //store data and only get it in the order in which it was filled
 
-            List<Birthday> list = bday;
             Stack<Birthday> stack = new Stack<Birthday>(bday);
 
             foreach(var item in stack)
