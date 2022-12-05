@@ -1,0 +1,14 @@
+C:\Users\grace\source\repos\Sorting\Sorting\bin\Debug\netcoreapp3.1\Sorting.exe
+C:\Users\grace\source\repos\Sorting\Sorting\bin\Debug\netcoreapp3.1\Sorting.deps.json
+C:\Users\grace\source\repos\Sorting\Sorting\bin\Debug\netcoreapp3.1\Sorting.runtimeconfig.json
+C:\Users\grace\source\repos\Sorting\Sorting\bin\Debug\netcoreapp3.1\Sorting.runtimeconfig.dev.json
+C:\Users\grace\source\repos\Sorting\Sorting\bin\Debug\netcoreapp3.1\Sorting.dll
+C:\Users\grace\source\repos\Sorting\Sorting\bin\Debug\netcoreapp3.1\Sorting.pdb
+C:\Users\grace\source\repos\Sorting\Sorting\obj\Debug\netcoreapp3.1\Sorting.csproj.AssemblyReference.cache
+C:\Users\grace\source\repos\Sorting\Sorting\obj\Debug\netcoreapp3.1\Sorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grace\source\repos\Sorting\Sorting\obj\Debug\netcoreapp3.1\Sorting.AssemblyInfoInputs.cache
+C:\Users\grace\source\repos\Sorting\Sorting\obj\Debug\netcoreapp3.1\Sorting.AssemblyInfo.cs
+C:\Users\grace\source\repos\Sorting\Sorting\obj\Debug\netcoreapp3.1\Sorting.csproj.CoreCompileInputs.cache
+C:\Users\grace\source\repos\Sorting\Sorting\obj\Debug\netcoreapp3.1\Sorting.dll
+C:\Users\grace\source\repos\Sorting\Sorting\obj\Debug\netcoreapp3.1\Sorting.pdb
+C:\Users\grace\source\repos\Sorting\Sorting\obj\Debug\netcoreapp3.1\Sorting.genruntimeconfig.cache
