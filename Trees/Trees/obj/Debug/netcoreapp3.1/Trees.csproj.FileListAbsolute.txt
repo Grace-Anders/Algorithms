@@ -1,0 +1,14 @@
+C:\Users\grace\source\repos\Trees\Trees\bin\Debug\netcoreapp3.1\Trees.exe
+C:\Users\grace\source\repos\Trees\Trees\bin\Debug\netcoreapp3.1\Trees.deps.json
+C:\Users\grace\source\repos\Trees\Trees\bin\Debug\netcoreapp3.1\Trees.runtimeconfig.json
+C:\Users\grace\source\repos\Trees\Trees\bin\Debug\netcoreapp3.1\Trees.runtimeconfig.dev.json
+C:\Users\grace\source\repos\Trees\Trees\bin\Debug\netcoreapp3.1\Trees.dll
+C:\Users\grace\source\repos\Trees\Trees\bin\Debug\netcoreapp3.1\Trees.pdb
+C:\Users\grace\source\repos\Trees\Trees\obj\Debug\netcoreapp3.1\Trees.csproj.AssemblyReference.cache
+C:\Users\grace\source\repos\Trees\Trees\obj\Debug\netcoreapp3.1\Trees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grace\source\repos\Trees\Trees\obj\Debug\netcoreapp3.1\Trees.AssemblyInfoInputs.cache
+C:\Users\grace\source\repos\Trees\Trees\obj\Debug\netcoreapp3.1\Trees.AssemblyInfo.cs
+C:\Users\grace\source\repos\Trees\Trees\obj\Debug\netcoreapp3.1\Trees.csproj.CoreCompileInputs.cache
+C:\Users\grace\source\repos\Trees\Trees\obj\Debug\netcoreapp3.1\Trees.dll
+C:\Users\grace\source\repos\Trees\Trees\obj\Debug\netcoreapp3.1\Trees.pdb
+C:\Users\grace\source\repos\Trees\Trees\obj\Debug\netcoreapp3.1\Trees.genruntimeconfig.cache
